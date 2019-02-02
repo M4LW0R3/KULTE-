@@ -172,8 +172,9 @@ body {
     transform: rotate(90deg);
 }
 .portfolio:hover{
-    background: rgb(228, 162, 108);
+    background-color:floralwhite;
 }
+
 .Work {
     position: fixed;
     top: 550px;
