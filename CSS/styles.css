@@ -94,6 +94,10 @@ body {
     top: 180px;
     transform: rotate(-90deg);
 }
+.contact:hover{
+    background:lightgrey;    
+}
+
 
 .tag {
     position: fixed;
@@ -160,20 +164,25 @@ body {
     height: 1px;
 }
 
-.e-shop {
+.portfolio {
     padding: 10px 30px;
     position: fixed;
     left: 1020px;
     top: 180px;
     transform: rotate(90deg);
 }
-
-.tag-line {
+.portfolio:hover{
+    background: rgb(228, 162, 108);
+}
+.Work {
     position: fixed;
     top: 550px;
     left: 698px;
     padding: 10px 30px;
-    color: grey;
+    color: gray;
+}
+.Work:hover{
+    background: lightsteelblue;
 }
 
 .media ul {
