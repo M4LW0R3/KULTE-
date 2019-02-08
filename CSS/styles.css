@@ -6,7 +6,7 @@ body {
     height: 100vh;
     font-family: Poppins;
 }
-
+/* Account Section */
 .s-one {
     position: absolute;
     width: 1px;
@@ -14,7 +14,7 @@ body {
     background: rgba(0, 0, 0, 0.2);
     left: 25%;
 }
-
+/*  */
 .s-two {
     position: absolute;
     width: 1px;
